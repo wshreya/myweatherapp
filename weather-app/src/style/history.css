@@ -1,0 +1,14 @@
+.box {
+    box-shadow: 10px 10px 5px grey;
+    border: 1px solid #e3e3e3; 
+    border-radius: 4px; 
+}
+span.description {
+    font-size: 20px bold;
+}
+span.main {
+    font-size: 12px;
+}
+.historytable {
+    margin-top: 21%;
+}

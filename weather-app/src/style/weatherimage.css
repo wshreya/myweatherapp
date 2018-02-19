@@ -1,0 +1,24 @@
+.container{
+    height: 85vh;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    width: 100%;
+}
+.Rain {
+    background-image: url('../images/rain.jpg');
+}
+.Clouds {
+    background-image: url('../images/cloud.jpg');
+}
+.Snow {
+    background-image: url('../images/snow.jpg');
+}
+.Smoke {
+    background-image: url('../images/smoke.jpg');
+}
+.Haze {
+    background-image: url('../images/haze.jpg');
+}
+.Clear {
+    background-image: url('../images/clear.jpg');   
+}

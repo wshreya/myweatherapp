@@ -1,0 +1,34 @@
+/* .container{
+    width: 1319px;
+    height: 500px;
+    height: 85vh;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+} */
+.weathertable {
+    margin-left: 5%;
+    box-shadow: 10px 10px 5px grey
+}
+.Rain {
+    background-image: url('../images/rain.jpg');
+}
+.Clouds {
+    background-image: url('../images/cloud.jpg');
+}
+.Snow {
+    background-image: url('../images/snow.jpg');
+}
+.Smoke {
+    background-image: url('../images/smoke.jpg');
+}
+.Haze {
+    background-image: url('../images/haze.jpg');
+}
+span.date {
+    font-size: 12px;
+    font-style: oblique;
+}
+span.description {
+    font-style: italic;
+    text-transform: capitalize;
+}
